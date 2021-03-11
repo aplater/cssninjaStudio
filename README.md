@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue 3**
 
-- 👨‍💻 All of my projects are available at [https://dribbble.com/playbook](https://dribbble.com/playbook)
+- 👨‍💻 Check my [portfolio](https://cssninja.io/portfolio) and my shots on [dribbble](https://dribbble.com/playbook)
 
 - 📝 I regularly write articles on [https://cssninja.io/blog](https://cssninja.io/blog)
 
