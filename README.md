@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Css Ninja</h1>
-<h3 align="center">UI/UX design studio</h3>
 
 - 🏆 Iam an Elite author on [ThemeForest](https://themeforest.net/user/cssninjastudio/portfolio)
 
